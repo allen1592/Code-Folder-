@@ -1,0 +1,2 @@
+gôm các file driver về 1 folder or 1 file chạy tổng hợp 
+Chạy 1 script cho các driver đã được tải và auto cài đặt
